@@ -16,6 +16,6 @@ npm i
 npm run start
 ```
 
-3. Open [http://localhost:8000/results] (http://localhost:8000/results) with your browser to see the rsults of the web scrape
+3. Open [http://localhost:8000/results](http://localhost:8000/results) with your browser to see the rsults of the web scrape
 
 4. Finally, open index.html file in your browser to see the results.
